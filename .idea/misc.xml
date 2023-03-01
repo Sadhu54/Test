@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/flutter/Test/app/src/main/res/drawable/background_white_top_corner_rounded.xml" value="0.1" />
+        <entry key="..\:/flutter/Test/app/src/main/res/drawable/ic_filter.xml" value="0.1" />
+        <entry key="..\:/flutter/Test/app/src/main/res/drawable/ic_logout_line_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/activity_detail.xml" value="0.2265625" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/activity_home.xml" value="0.12571428571428572" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/activity_login.xml" value="0.14285714285714285" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/bottom_sheet_filter.xml" value="0.2857142857142857" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/layout_filters.xml" value="0.1" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/layout_movie_cell.xml" value="0.10285714285714286" />
+        <entry key="..\:/flutter/Test/app/src/main/res/layout/layout_photo_cell.xml" value="0.2265625" />
+        <entry key="..\:/test_interviews/Test/app/src/main/res/layout/activity_detail.xml" value="0.2265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
