@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="login">Login</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+    <string name="facebook_app_id">501765015203453</string>
+    <string name="facebook_client_token">70698236e6fa0a3d3b0d070a4134ae55</string>
+    <string name="filters">Filters:</string>
+    <string name="genre">Genre:</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="clear_all">Clear all</string>
+</resources>
